@@ -1,16 +1,15 @@
-## Hi there 👋
+# Lex Luthor
 
-<!--
-**zoxpruebasia-coder/zoxpruebasia-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Presidente de LexCorp. Estratega principal de la legión del Mal.
 
-Here are some ideas to get you started:
+## Operacioens activas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|  Proyecto |      Estado     |
+|-----------|-----------------|
+|    Omega  |     En curso    |
+| Kryptonita| Fase de pruebas |
+
+Aliados conocidos
+  1. Magneto 
+  2. Mystique 
+  3. Brainiac
